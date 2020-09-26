@@ -1,0 +1,45 @@
+.hlogo{
+	padding :20px;
+	margin : 10px;
+	height : 150px;
+	
+}
+.col-1-body-img_01{
+	height:300 px;
+	width :80%;
+	
+}
+.col-1-body-img_02{
+	height:200 px;
+	width :80%;
+}
+.img{
+	border-radius: 25%;
+	
+	margin :15px:
+}
+.img_01{
+	border-radius: 25%;
+	padding :5px;
+	margin :15px:
+}
+div {
+  column-gap: 40px;
+}
+
+#form{
+		  box-shadow: 5px 5px white;
+
+}
+#shadow {
+  -webkit-box-shadow: 3px 3px 5px 6px #E3CF57	;  
+  -moz-box-shadow:    3px 3px 5px 6px #E3CF57	 ; 
+  box-shadow:         3px 3px 5px 6px #E3CF57	; 
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  
+}
+
